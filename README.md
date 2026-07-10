@@ -95,15 +95,11 @@ My goal is to create software that solves real business problems through Artific
 ---
 
 # Stats
-
+<p>
 <img width="1019" height="1425" alt="DacuvIA Lux" src="https://github.com/user-attachments/assets/92033c73-f4ad-4442-8d60-3a6a4d106232" />
 <img width="1013" height="1471" alt="Dacuvia pro" src="https://github.com/user-attachments/assets/18ba113f-bb82-4754-890e-4cb3a51a0454" />
 <img width="1024" height="1536" alt="1DacuvIA" src="https://github.com/user-attachments/assets/15edb956-5ebd-4f72-819c-f310599fa789" />
 <img width="1024" height="1536" alt="DacuvIA" src="https://github.com/user-attachments/assets/8bf4d895-a0f0-4102-9e76-8e7ed4a76adc" />
-
-
-
-
 </p>
 
 ---
