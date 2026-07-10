@@ -133,3 +133,4 @@ Website *(Coming Soon)*
 **Artificial Intelligence for Real Business**
 
 </div>
+<img width="267" height="744" alt="proyectos" src="https://github.com/user-attachments/assets/d9f88784-108b-4a5d-ac4c-118921df0c54" />
