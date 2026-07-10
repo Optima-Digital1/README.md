@@ -1,5 +1,5 @@
 # README.md
-# 👋 Hi, I'm Dananngel Vilchis
+# 👋 Hi, I'm Dananngel Curbelo
 
 Founder of **DacuvIA**
 
